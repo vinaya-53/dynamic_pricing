@@ -57,7 +57,7 @@ const ForecastComponent: React.FC<ForecastComponentProps> = ({ selectedCategory 
         }
       } catch (error) {
         console.error("Error fetching forecast:", error);
-        alert("Failed to get forecast data.");
+       
       } finally {
         setLoading(false);
       }

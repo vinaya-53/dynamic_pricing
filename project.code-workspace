@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "project",
+			"path": "."
+		},
+		{
+			"name": "utils",
+			"path": "../../../demand-forecasting/src/utils"
+		}
+	],
+	"settings": {}
+}
